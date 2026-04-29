@@ -1,4 +1,4 @@
-<img src="EI.jpg" width="100%">
+<img src="EI.jpg" width="100%" height="200">
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
