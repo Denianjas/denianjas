@@ -1,6 +1,6 @@
-<div align="center">
-  <video src="Ei.mp4" width="100%" autoplay loop muted playsinline></video>
-</div>
+<p align="center">
+  <video src="https://raw.githubusercontent.com/denianjas/denianjas/main/Ei.mp4" width="100%" style="border-radius: 5px;" autoplay loop muted playsinline></video>
+</p>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
