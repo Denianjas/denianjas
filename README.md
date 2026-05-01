@@ -6,9 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/530d5593-148e-42b4-ba33-ea8251db74bf" width="90%" height="300" style="border-radius: 8px; />
-</p>
+
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
