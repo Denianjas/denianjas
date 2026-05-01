@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/530d5593-148e-42b4-ba33-ea8251db74bf" width="90%" height="300" style="border-radius: 5px;" />
+  <img src="https://github.com/user-attachments/assets/530d5593-148e-42b4-ba33-ea8251db74bf" width="90%" height="300" style="border-radius: 8px; object-fit: cover; aspect-ratio: 16/7;" />
 </p>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
