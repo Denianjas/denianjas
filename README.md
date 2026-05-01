@@ -1,4 +1,6 @@
-![Aesthetic Background](https://raw.githubusercontent.com/denianjas/denianjas/main/mp4.gif)
+<div align="center">
+  <video src="Ei.mp4" width="100%" autoplay loop muted playsinline></video>
+</div>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
