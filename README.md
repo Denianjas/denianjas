@@ -1,7 +1,7 @@
 <!--<img alt="Image" src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f83dea58"/> -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5611b93b-356a-4557-bf51-45a4b83cefbf" width="100%" height="200" style="border-radius: 5px;" />
+  <img src="https://github.com/user-attachments/assets/5611b93b-356a-4557-bf51-45a4b83cefbf" width="90%" height="300" style="border-radius: 5px;" />
 </p>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
