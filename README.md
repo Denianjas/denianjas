@@ -1,4 +1,6 @@
-![Deskripsi Gambar](path/ke/mp4.gif)
+<div align="center">
+  <video src="./mp4.gif" width="100%" autoplay loop muted></video>
+</div>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
