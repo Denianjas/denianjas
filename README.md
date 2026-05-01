@@ -1,4 +1,4 @@
-<img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f83dea58" />
+<img alt="Image" src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f83dea58" width="100%" />
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
