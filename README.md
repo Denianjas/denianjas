@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f832dea58" width="100%" style="border-radius: 8px;" alt="Header Image">
+  <video src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f832dea58" width="100%" autoplay loop muted playsinline style="border-radius: 8px;"></video>
 </p>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
