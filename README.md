@@ -1,4 +1,4 @@
-<img src="EI.jpg" width="100%" height="450">
+![Deskripsi Gambar](path/ke/file.gif)
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
