@@ -1,7 +1,7 @@
 <!--<img alt="Image" src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f83dea58"/> -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/46530a7b-8e5f-41eb-8678-bc03a6597fc1" width="75%" height="200" style="border-radius: 5px;" />
+  <img src=shogun.gif width="75%" height="200" style="border-radius: 5px;" />
 </p>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
