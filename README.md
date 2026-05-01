@@ -1,4 +1,4 @@
-![Deskripsi Gambar](path/ke/file.gif)
+![Deskripsi Gambar](path/ke/mp4.gif)
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
 
