@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f832dea58" width="100%"  style="border-radius: 8px;"></image>
+  <img src="https://github.com/user-attachments/assets/f7cea7ac-98ad-42d6-aafa-c531f832dea58" width="100%""></image>
 </p>
 
 # Hi, I'm Deni Anjas Rori Rilawan 👋
